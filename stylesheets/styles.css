@@ -1,0 +1,19 @@
+.tile{
+    position: absolute;
+    left: 50%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    margin: 0;
+}
+
+.item {
+    margin-left: auto;
+}
+
+.item-icon {
+
+}
